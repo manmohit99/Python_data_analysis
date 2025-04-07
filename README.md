@@ -22,3 +22,6 @@ To explore the analysis:
 
    ```bash
    git clone https://github.com/manmohit99/Python_data_analysis.git
+   
+## Results
+The analysis provides insights into UFood's marketing strategies and their effectiveness. Key findings and visualizations are documented within the Jupyter Notebook.
